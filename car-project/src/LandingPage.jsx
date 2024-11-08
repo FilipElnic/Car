@@ -1,7 +1,9 @@
+import "./App.css";
+
 function LandingPage() {
   return (
     <>
-      <div className="h-100 p-3 bg-black">Width 100%</div>
+      <div className="container-fluid  full-Height"></div>
     </>
   );
 }
