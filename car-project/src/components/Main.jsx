@@ -1,7 +1,9 @@
+import "bootstrap/dist/css/bootstrap.min.css";
+
 function Main() {
   return (
-    <div>
-      <h2>Main</h2>
+    <div className="full-height bg-black">
+      <p>Main</p>
     </div>
   );
 }

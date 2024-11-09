@@ -4,13 +4,16 @@ body {
   padding: 0;
 }
 
-.full-Height {
+.landing-page {
   background-image: url("/motorka.png");
   background-size: fit; /* Ensures the image covers the entire container */
   background-position: center; /* Centers the image in the container */
   background-repeat: no-repeat; /* Prevents the image from repeating */
-  height: 100dvh;
   background-color: hsla(0, 0%, 27%, 0.644);
+}
+.full-height {
+  height: 100dvh;
+
   margin: 0;
   padding: 0;
 }
